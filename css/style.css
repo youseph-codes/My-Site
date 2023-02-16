@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: grey;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+
+p {
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    margin-top: 0;
+}
+
+.top-container {
+    margin: 4%;
+    text-align: center;
+    position: relative;
+}
+
+.banner-txt {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.top-container img {
+    width: 100%;
+}
+
+.profile-bio {
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+}
+
+.profile-title {
+    font-family: 'Oswald', sans-serif;
+}
